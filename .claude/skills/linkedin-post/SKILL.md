@@ -47,5 +47,7 @@ Pour chaque sujet :
   (entre guillemets), p.ex. args = `"briefs/<slug>_corps.md"`.
 
 ## 6. Restituer
-Compile tous les posts générés et présente-les moi, un par sujet, prêts à copier-coller.
+- Exécute `rm -rf posts && mkdir posts` pour repartir d'un dossier propre.
+- Pour chaque sujet, écris le post final dans `posts/<slug>.md` (contenu brut, sans en-tête markdown).
+- Compile et présente-les moi dans la conversation, un par sujet, prêts à copier-coller.
 Indique pour chacun le sujet source et le lien d'origine.

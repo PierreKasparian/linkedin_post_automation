@@ -1,3 +1,4 @@
 .env.*
 briefs/
+posts/
 tldr_aggregated_*.html
