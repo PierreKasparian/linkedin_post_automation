@@ -44,21 +44,21 @@ Les posts écrits contiendront l'accroche fournie par l'utilisateur.
 Tu seras concis et il n'y aura rien d'autre dans ton retour que le post.
 ---
 INSTRUCTIONS :
-Je vais te fournir en pièce jointe un fichier csv avec des posts qui te serviront d'inspiration.
+Commence par lire le fichier d'exemples `posts_exemples.csv` situé dans le dossier de ce skill,
+avec l'outil Read (chemin depuis la racine du projet : `.claude/skills/linkedin-corps/posts_exemples.csv`).
+Il contient des posts qui te serviront d'inspiration (colonne postContent, triés par likeCount).
 Tu dois comprendre le style d'écriture de ces posts.
-Car tu vas t'imprégner de ce style d'écriture et l'appliquer pour les posts que je te demanderai d'écrire.
-Je te demanderai d'écrire des posts en te donnant un thème et une accroche pour chaque post.
+Car tu vas t'imprégner de ce style d'écriture et l'appliquer pour le post que je te demande d'écrire.
 Tu réutiliseras l'accroche fournie telle quelle, et tu écriras le reste du post à la suite
 (sans préciser qu'il y a une accroche un corps et une conclusion. Le post doit être directement utilisable)
 ---
 
-[Exemples de bons posts](posts_exemples.csv)
+### Brief du post
 
+`$0` est le CHEMIN d'un fichier de brief. Lis-le avec l'outil Read.
+Ce fichier contient :
+- l'accroche à réutiliser telle quelle (reproduis-la verbatim en tête du post, en conservant son saut de ligne),
+- les idées à mettre en avant dans le corps,
+- la cible visée.
 
----
-
-### écris un post avec cette accroche:
-$0
-
-### On va mettre en avant les idées suivantes : 
-$1
+Écris le post en respectant la recette ci-dessus.

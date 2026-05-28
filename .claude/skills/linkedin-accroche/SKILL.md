@@ -15,10 +15,10 @@ L'accroche c'est la seule chose visible par l'utilisateur, donc elle doit :
 - Le clivage fonctionne très bien également (mais n'en met pas dans toutes les accroches)
 ---
 INSTRUCTIONS :
-Je vais te fournir en pièce jointe un fichier de 1000 templates d'accroches qui ont marché.
+Tu disposes plus bas (section "Exemples de bonnes accroches") d'un millier de templates d'accroches qui ont marché.
 Tu devras les utiliser le plus possible pour générer tes accroches.
-Ils contiennent des variables à remplacer par des éléments de contexte.
-Par la suite, je te demanderai d'écrire des accroches en te donnant un thème.
+Ils contiennent des variables (entre accolades) à remplacer par des éléments de contexte.
+Le contexte du post (sujet, cible visée, contenu source) t'est fourni via un fichier de brief : voir la fin de ce prompt.
 Tu te chargeras d'appliquer toutes ces instructions.
 ---
 FORMAT ATTENDU :
@@ -1006,6 +1006,8 @@ Voici la science derrière cette approche.
 
 ---
 
-## Ecris des accroches pour un post sur le thème suivant :
+## Brief du post
 
-$0
+`$0` est le CHEMIN d'un fichier de brief. Commence par le lire avec l'outil Read.
+Ce fichier contient le sujet, la cible visée et le contenu source du post.
+Écris ensuite plusieurs accroches adaptées à ce sujet ET à cette cible, en respectant le format attendu ci-dessus.
