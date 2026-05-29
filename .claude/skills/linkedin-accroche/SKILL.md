@@ -1010,4 +1010,4 @@ Voici la science derrière cette approche.
 
 `$0` est le CHEMIN d'un fichier de brief. Commence par le lire avec l'outil Read.
 Ce fichier contient le sujet, la cible visée et le contenu source du post.
-Écris ensuite plusieurs accroches adaptées à ce sujet ET à cette cible, en respectant le format attendu ci-dessus.
+Écris ensuite plusieurs accroches adaptées à ce sujet ET à cette cible, en respectant le format attendu ci-dessus. Numérote les accroche
