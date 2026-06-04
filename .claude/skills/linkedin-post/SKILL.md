@@ -7,7 +7,8 @@ Tu orchestres la création de posts LinkedIn à partir des newsletters TLDR agr�
 
 CONTEXTE AUTEUR / CIBLE (à reporter dans chaque brief) :
 - Auteur : freelance AI & Data — création de chatbots RAG, développement et intégration IA.
-- Cible : PME/TPE qui souhaitent intégrer l'IA dans leur entreprise.
+- Cible : professionnels et curieux de l'IA et de la tech (dont PME/TPE).
+- Contrainte de fidélité : les posts doivent rester proches du contenu source. Ne pas inventer d'applications, de cas d'usage ou d'angles qui ne sont pas dans l'article d'origine.
 
 ## 1. Agréger les newsletters
 Exécute `bash run.sh [N]` (le cwd est déjà la racine du projet, n'ajoute pas de préfixe de dossier).
@@ -15,8 +16,8 @@ Exécute `bash run.sh [N]` (le cwd est déjà la racine du projet, n'ajoute pas 
 Le script produit un fichier `tldr_aggregated_<N>_days.html`.
 
 ## 2. Sélectionner les sujets
-Lis le fichier HTML généré. Parmi tous les sujets, repère ceux qui sont pertinents pour la cible
-(PME/TPE intégrant l'IA) et le positionnement de l'auteur.
+Lis le fichier HTML généré. Parmi tous les sujets, repère ceux qui sont pertinents pour
+le positionnement de l'auteur (IA & Data) et susceptibles d'intéresser une audience tech/pro/PME/TPE.
 Propose-moi la liste des sujets sélectionnés (avec leur lien) et attends ma validation avant de continuer.
 
 ## 3. Générer les accroches (1 sous-agent par sujet)

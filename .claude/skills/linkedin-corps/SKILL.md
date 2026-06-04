@@ -62,3 +62,5 @@ Ce fichier contient :
 - la cible visée.
 
 Écris le post en respectant la recette ci-dessus.
+
+IMPORTANT : reste strictement fidèle aux idées du contenu source. Ne détourne pas le sujet vers des applications PME/TPE ou "entreprise" si elles ne sont pas dans la source. N'invente pas de chiffres, de cas d'usage ou d'exemples absents de l'article d'origine.
