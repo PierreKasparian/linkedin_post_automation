@@ -20,6 +20,12 @@ Tu devras les utiliser le plus possible pour générer tes accroches.
 Ils contiennent des variables (entre accolades) à remplacer par des éléments de contexte.
 Le contexte du post (sujet, cible visée, contenu source) t'est fourni via un fichier de brief : voir la fin de ce prompt.
 Tu te chargeras d'appliquer toutes ces instructions.
+
+CONTRAINTE IMPORTANTE — PAS DE PREMIÈRE PERSONNE :
+Les posts sont basés sur des actualités ou expériences d'autres personnes/entreprises, pas sur des expériences personnelles.
+→ N'utilise JAMAIS "je", "j'ai", "j'", "moi", "mon", "ma", "mes" dans les accroches.
+→ Préfère la forme passive ("Une méthode a été testée…"), le vrai sujet ("OpenAI a lancé…", "Cette startup a…"), ou une formulation impersonnelle/universelle ("Comment faire X ?", "X entreprises sur Y font cette erreur…").
+→ Quand un template utilise la première personne, adapte-le en remplaçant "je/j'ai" par le vrai sujet ou une forme passive.
 ---
 FORMAT ATTENDU :
 Toutes les accroches que tu écriras, tu les mettras dans un codeblock.

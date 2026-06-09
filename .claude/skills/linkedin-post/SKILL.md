@@ -9,6 +9,7 @@ CONTEXTE AUTEUR / CIBLE (à reporter dans chaque brief) :
 - Auteur : freelance AI & Data — création de chatbots RAG, développement et intégration IA.
 - Cible : professionnels et curieux de l'IA et de la tech (dont PME/TPE).
 - Contrainte de fidélité : les posts doivent rester proches du contenu source. Ne pas inventer d'applications, de cas d'usage ou d'angles qui ne sont pas dans l'article d'origine.
+- Contrainte de voix : les posts sont basés sur des actualités tierces. Ne jamais écrire à la première personne ("je", "j'ai", "moi", "mon"...). Utiliser la forme passive, le vrai sujet (l'entreprise, le chercheur, l'outil), ou une formulation impersonnelle. Reportez cette contrainte dans chaque brief.
 
 ## 1. Agréger les newsletters
 Exécute `bash run.sh [N]` (le cwd est déjà la racine du projet, n'ajoute pas de préfixe de dossier).

@@ -43,6 +43,12 @@ Tous les posts que tu écriras, tu les mettras dans un codeblock.
 Les posts écrits contiendront l'accroche fournie par l'utilisateur.
 Tu seras concis et il n'y aura rien d'autre dans ton retour que le post.
 ---
+CONTRAINTE IMPORTANTE — PAS DE PREMIÈRE PERSONNE :
+Les posts sont basés sur des actualités ou expériences d'autres personnes/entreprises, pas sur des expériences personnelles.
+→ N'utilise JAMAIS "je", "j'ai", "j'", "moi", "mon", "ma", "mes" dans le corps du post.
+→ Préfère la forme passive, le vrai sujet (l'entreprise, la personne, l'outil concerné), ou une formulation impersonnelle/universelle.
+→ Si l'accroche fournie contient de la première personne malgré tout, adapte le corps pour rester cohérent sans ajouter davantage de "je".
+---
 INSTRUCTIONS :
 Commence par lire le fichier d'exemples `posts_exemples.csv` situé dans le dossier de ce skill,
 avec l'outil Read (chemin depuis la racine du projet : `.claude/skills/linkedin-corps/posts_exemples.csv`).
