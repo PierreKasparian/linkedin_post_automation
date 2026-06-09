@@ -49,6 +49,6 @@ Pour chaque sujet :
 
 ## 6. Restituer
 - Exécute `rm -rf posts && mkdir posts` pour repartir d'un dossier propre.
-- Pour chaque sujet, écris le post final dans `posts/<slug>.md` (contenu brut, sans en-tête markdown).
+- Pour chaque sujet, écris le post final dans `posts/<slug>.md` (contenu brut, sans en-tête markdown). En fin de post ajoute "source : l'url vers l'article de la newsletter"
 - Compile et présente-les moi dans la conversation, un par sujet, prêts à copier-coller.
 Indique pour chacun le sujet source et le lien d'origine.
