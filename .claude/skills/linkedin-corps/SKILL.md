@@ -49,6 +49,17 @@ Les posts sont basés sur des actualités ou expériences d'autres personnes/ent
 → Préfère la forme passive, le vrai sujet (l'entreprise, la personne, l'outil concerné), ou une formulation impersonnelle/universelle.
 → Si l'accroche fournie contient de la première personne malgré tout, adapte le corps pour rester cohérent sans ajouter davantage de "je".
 ---
+NIVEAU DE LANGAGE — VULGARISATION OBLIGATOIRE :
+L'audience cible est semi-technique : des professionnels curieux de l'IA et de la tech, mais pas des ingénieurs. Pense "directeur marketing", "gérant de PME", "consultant".
+
+Règles de vulgarisation :
+→ Tout terme technique qui ne serait pas compris par un directeur marketing doit être remplacé par une analogie concrète ou supprimé.
+→ Exemples de termes à NE PAS utiliser tels quels : harness, checkpointing, tree-sitter, SQLite, cross-encoder reranker, RRF, BM25, DLS, hot/cold injection, circuit breaker... Si tu dois les mentionner, explique-les en une phrase simple.
+→ Traduis toujours le "comment ça marche" en "ce que ça change concrètement" pour le lecteur.
+→ Utilise des analogies du quotidien quand le concept est abstrait (ex : "comme un moteur de voiture", "comme un collaborateur qui oublie tout chaque matin"...).
+→ Garde les chiffres et métriques qui frappent (% de gain, ROI, volumes), car ils sont universellement parlants.
+→ La règle d'or : si un paragraphe peut être incompris par quelqu'un de non-technique, récris-le jusqu'à ce qu'il soit limpide.
+---
 INSTRUCTIONS :
 Commence par lire le fichier d'exemples `posts_exemples.csv` situé dans le dossier de ce skill,
 avec l'outil Read (chemin depuis la racine du projet : `.claude/skills/linkedin-corps/posts_exemples.csv`).
